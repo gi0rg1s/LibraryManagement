@@ -1,4 +1,4 @@
-# 📚✨ LibraryManagement Girly Edition ✨📚
+# 📚✨ LibraryManagement ✨📚
 
 Your favorite cute library management system! 💕 A simple yet adorable library management system implemented in C using SQLite for data storage. The program allows users to log in, search for books by title or author, and manage their fabulous profiles! 👑
 
